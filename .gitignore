@@ -1,1 +1,5 @@
+# ignore all db journal files
 *.db-journal
+
+# ignore all pdf files
+*.pdf
